@@ -1,0 +1,9 @@
+{
+  "name": "mon-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.10.2",
+    "markdown": "~0.4",
+    "socket.io": "^1.4.5"
+  }
+}
